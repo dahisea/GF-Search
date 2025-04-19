@@ -3,6 +3,12 @@
   to = "https://xdrcgfn.dahi.edu.eu.org/zh-hans/scripts"
   status = 200
   force = true
+
+[[redirects]]
+  from = "/s"
+  to = "https://thepage-gfork.zh-hk.eu.org/search"
+  status = 200
+  force = true
   
 [[redirects]]
   from = "/*"
