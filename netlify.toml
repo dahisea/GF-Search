@@ -5,12 +5,6 @@
   force = true
 
 [[redirects]]
-  from = "/p/7802734A-77AA-4094-97CD-6C8E4FFB1937"
-  to = "https://xdrcgfn.dahi.edu.eu.org/zh-hans/scripts"
-  status = 200
-  force = true
-
-[[redirects]]
   from = "/s"
   to = "https://thepage-gfork.zh-hk.eu.org/searchw"
   status = 200
