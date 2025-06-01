@@ -24,8 +24,8 @@
   
 [[redirects]]
   from = "/s"
-  to = "https://thepage-gfork.zh-hk.eu.org/searchw"
-  status = 200
+  to = "https://home.greasyfork.org.cn/s"
+  status = 302
   force = true
 
 [[redirects]]
